@@ -84,27 +84,27 @@ Make sure you have Node.js installed, then run:
 ## API Integration
 The application interacts with the 4Geeks Academy To-Do API during these key runtime moments:
 
-Initial Load
+   - Initial Load
 
 Method: `GET`
-- Fetches the existing list of tasks from the server and displays them.
-- Add a Task
+   - Fetches the existing list of tasks from the server and displays them.
+   - Add a Task
 
 Method: `PUT`
-- Updates the server with the new list of tasks.
-- Remove a Task
+   - Updates the server with the new list of tasks.
+   - Remove a Task
 
 Method: `PUT`
-- Updates the server with the updated list after task removal.
-- Clear All Tasks
+   - Updates the server with the updated list after task removal.
+   - Clear All Tasks
 
 Method: `DELETE`
-- Removes all tasks from the server and resets the UI.
+   - Removes all tasks from the server and resets the UI.
 
 ---
 
 ## Key Learnings
-- Effective use of React hooks (useEffect and useState).
+- Effective use of React hooks (`useEffect` and `useState`).
 - Mastery of asynchronous programming using async/await.
 - Real-world application of RESTful API integration.
 - Improved understanding of ES6+ JavaScript features like:
@@ -117,7 +117,8 @@ Method: `DELETE`
 ---
 
 ## Future Enhancements
-- User Authentication: Add user-specific task lists.
-- Task Editing: Allow users to edit tasks directly in the app.
-- Improved UI/UX: Enhance the design with animations and advanced styling.
-- Offline Mode: Cache tasks locally to allow offline usage.
+- **User Authentication:** Add user-specific task lists.
+- **Task Editing:** Allow users to edit tasks directly in the app.
+- **Improved UI/UX:** Enhance the design with animations and advanced styling.
+- **Offline Mode:** Cache tasks locally to allow offline usage.
+- **Convert to Mobile:** Allow users to access the app via smartphone or tablet. 
