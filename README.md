@@ -13,7 +13,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage-and-key-features)
+- [Usage and Key Features](#usage-and-key-features)
 - [API Integration](#api-integration)
 - [Key Learnings](#key-learnings)
 - [Future Enhancements](#future-enhancements)
