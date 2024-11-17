@@ -2,7 +2,7 @@
 
 A **To-Do List Application** built with **React** to demonstrate proficiency in modern JavaScript (ES6+), RESTful APIs, and asynchronous programming. This project leverages the public [4Geeks Academy To-Do API](https://playground.4geeks.com/todo/docs) to synchronize tasks with a backend.
 
-## 🚀 Live Demo
+## 🚀 Live Demo 🚀 
 
 [Click here to view the live demo](https://todo-list-app-using-react.vercel.app/)
 
@@ -20,7 +20,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 
 ---
 
-## 🌟 Features
+## Features 🌟 
 
 - Add, remove, and manage tasks in real time.
 - Synchronize tasks with a backend API.
