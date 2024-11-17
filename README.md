@@ -35,7 +35,8 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 - **React**: Component-based UI development.
 - **JavaScript (ES6+)**: Modern syntax including `let`, `const`, template literals, destructuring, and arrow functions.
 - **RESTful API**: Integration with the [4Geeks Academy To-Do API](https://playground.4geeks.com/todo/docs).
-- **CSS**: Styling for a clean and responsive user interface.
+- **Bootstrap**: Styling for a clean and responsive user interface.
+- **CSS**: Minimal CSS due to using Bootstrap.
 - **Vercel**: Deployment for live demo hosting.
 
 ---
