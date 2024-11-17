@@ -66,7 +66,7 @@ Make sure you have Node.js installed, then run:
 
 ---
 
-##Usage
+## Usage
 1. Load Initial Data:
 On first load, the app fetches tasks from the API and displays them. (Please note that this API resets its database each day).
 
@@ -81,7 +81,7 @@ Use the "Clear All" button to delete all tasks and clear the UI.
 
 ---
 
-## 🔗 API Integration
+## API Integration
 The application interacts with the 4Geeks Academy To-Do API during these key runtime moments:
 
 Initial Load
@@ -103,7 +103,7 @@ Removes all tasks from the server and resets the UI.
 
 ---
 
-## 📖 Key Learnings
+## Key Learnings
 - Effective use of React hooks (useEffect and useState).
 - Mastery of asynchronous programming using async/await.
 - Real-world application of RESTful API integration.
@@ -116,7 +116,7 @@ Removes all tasks from the server and resets the UI.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - User Authentication: Add user-specific task lists.
 - Task Editing: Allow users to edit tasks directly in the app.
 - Improved UI/UX: Enhance the design with animations and advanced styling.
