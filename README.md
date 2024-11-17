@@ -68,16 +68,16 @@ Make sure you have Node.js installed, then run:
 
 ## Usage
 1. Load Initial Data:
-On first load, the app fetches tasks from the API and displays them. (Please note that this API resets its database each day).
+- On first load, the app fetches tasks from the API and displays them. (Please note that this API resets its database each day).
 
 2. **Add a Task**
-Enter a task in the input field and click the plus-sign or press `ENTER`. The list will update both on the front end and backend.
+- Enter a task in the input field and click the plus-sign or press `ENTER`. The list will update both on the front end and backend.
 
 3. **Remove a Task**
-Click the delete button next to a task to remove it. This action syncs with the API.
+- Click the delete button next to a task to remove it. This action syncs with the API.
 
 4. **Clear All Tasks**
-Use the "Clear All" button to delete all tasks and clear the UI.
+- Use the "Clear All" button to delete all tasks and clear the UI.
 
 ---
 
@@ -87,19 +87,19 @@ The application interacts with the 4Geeks Academy To-Do API during these key run
 Initial Load
 
 Method: `GET`
-Fetches the existing list of tasks from the server and displays them.
-Add a Task
+- Fetches the existing list of tasks from the server and displays them.
+- Add a Task
 
 Method: `PUT`
-Updates the server with the new list of tasks.
-Remove a Task
+- Updates the server with the new list of tasks.
+- Remove a Task
 
 Method: `PUT`
-Updates the server with the updated list after task removal.
-Clear All Tasks
+- Updates the server with the updated list after task removal.
+- Clear All Tasks
 
 Method: `DELETE`
-Removes all tasks from the server and resets the UI.
+- Removes all tasks from the server and resets the UI.
 
 ---
 
