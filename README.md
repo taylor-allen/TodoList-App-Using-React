@@ -13,7 +13,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
+- [Usage](#usage-and-key-features)
 - [API Integration](#api-integration)
 - [Key Learnings](#key-learnings)
 - [Future Enhancements](#future-enhancements)
@@ -66,7 +66,7 @@ Make sure you have Node.js installed, then run:
 
 ---
 
-## Usage
+## Usage and Key Features
 1. Load Initial Data:
 - On first load, the app fetches tasks from the API and displays them. (Please note that this API resets its database each day).
 
