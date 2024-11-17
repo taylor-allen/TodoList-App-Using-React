@@ -20,7 +20,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 
 ---
 
-## Features 🌟 
+##Features
 
 - Add, remove, and manage tasks in real time.
 - Synchronize tasks with a backend API.
@@ -30,7 +30,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 
 ---
 
-## 💻 Technologies Used
+##Technologies Used
 
 - **React**: Component-based UI development.
 - **JavaScript (ES6+)**: Modern syntax including `let`, `const`, template literals, destructuring, and arrow functions.
@@ -40,7 +40,7 @@ A **To-Do List Application** built with **React** to demonstrate proficiency in 
 
 ---
 
-## 🔧 Setup Instructions
+##Setup Instructions
 
 1. **Clone the Repository**  
    ```bash
@@ -66,7 +66,7 @@ Make sure you have Node.js installed, then run:
 
 ---
 
-🛠️ **Usage**
+##Usage
 1. Load Initial Data:
 On first load, the app fetches tasks from the API and displays them. (Please note that this API resets its database each day).
 
